@@ -1,3 +1,12 @@
+OWNERDOMAIN=dropofcontact-crypto.github.io
 google.com, pub-2511824724810076, DIRECT, f08c47fec0942fa0
 ironsrc.com, 651733, DIRECT
+rubiconproject.com, 24400, RESELLER, 0bfd66d529a55807
+video.unrulymedia.com, 2464975885, RESELLER
+outbrain.com, 0023749a2264ea0429a71b54ac9ca0de9a, RESELLER
+improvedigital.com, 1114, RESELLER
+conversantmedia.com, 100234, RESELLER, 03113cd04947736d
+conversantmedia.com, 100688, RESELLER, 03113cd04947736d
+conversantmedia.com, 100691, RESELLER, 03113cd04947736d
+xandr.com, 2480, RESELLER
 # applovin.com, YOUR_APPLOVIN_SELLER_ID, DIRECT
