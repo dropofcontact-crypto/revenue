@@ -1,5 +1,3 @@
-# app-ads.txt for Charly Reeds / dropof
-# Kodular required entries (as per Kodular support)
-junnovate.com, kcn-CHILD_NETWORK, DIRECT
-google.com, pub-7724198591595211, RESELLER, f08c47fec0942fa0
 google.com, pub-2511824724810076, DIRECT, f08c47fec0942fa0
+ironsrc.com, 651733, DIRECT
+# applovin.com, YOUR_APPLOVIN_SELLER_ID, DIRECT
